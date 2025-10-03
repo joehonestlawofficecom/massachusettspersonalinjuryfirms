@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://massachusettspersonalinjuryfirms.com/sitemap.xml
